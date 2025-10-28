@@ -92,4 +92,5 @@ Key Takeaways
   Visualizations make patterns in content more understandable and actionable.
 
 Author
-  Name = Arnav Kumar Pathak
+  
+  Name - Arnav Kumar Pathak
